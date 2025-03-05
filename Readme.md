@@ -20,3 +20,5 @@ reliability in industrial settings. The results indicate that this comprehensive
 substantially reduce maintenance costs while enhancing system resilience and sustainability,
 as demonstrated through a real-world use case for wind turbines.
 
+### Main contributions of this research
+
