@@ -23,4 +23,4 @@ as demonstrated through a real-world use case for wind turbines.
 
 #### Main contributions of this research
 
-![Logo](./images/Deliverables.png)
+![Logo](./Images/Deliverables.png)
