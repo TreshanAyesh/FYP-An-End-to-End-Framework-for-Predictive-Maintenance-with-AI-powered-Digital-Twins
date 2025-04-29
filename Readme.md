@@ -3,10 +3,10 @@
 An End to End Framework for Predictive Maintenance With AI Powered Digital Twins
 
 Group Members 
-- Treshan Ayesh      - "any media link"
-- Ashen Dlanjana     - "any media link"
-- Shivanka Priyashan - "any media link"
-- Senuri Ranatunga   - "any media link"
+- Treshan Ayesh      
+- Ashen Dulanjana     
+- Shivanka Priyashan 
+- Senuri Ranatunga  
 
 This study presents a comprehensive end-to-end framework for Predictive Maintenance
 (PdM) for components in a Microgrid, with a focus on Vertical Axis Wind Turbines and
